@@ -1,3 +1,5 @@
 {
+  "name": "bloated-login",
+  "private": true,
   "packageManager": "yarn@3.1.1"
 }
